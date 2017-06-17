@@ -1,5 +1,6 @@
 # SpaceHoover
 SDL / C++ half-finished game - collect all the stars to win.
+Made with: Visual Studio Community 2015
 
 -General Concept
 This is an "isometric" 2-D game where your player attracts stars, and takes damage from asteroids.
