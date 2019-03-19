@@ -1,6 +1,5 @@
 # SpaceHoover
 SDL / C++ half-finished game - collect all the stars to win.
-Made with: Visual Studio Community 2015
 
 ## General Concept
 
