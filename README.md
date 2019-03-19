@@ -2,11 +2,13 @@
 SDL / C++ half-finished game - collect all the stars to win.
 Made with: Visual Studio Community 2015
 
-#General Concept
+#General Concept#
+
 This is an "isometric" 2-D game where your player attracts stars, and takes damage from asteroids.
 The concept was inspired by the print of a T-shirt I saw.
 
-#Design
+#Design#
+
 All physical objects seen on-screen are essentially entity classes, which are derived from the WorldObject base class.
 The World class holds many WorldObject pointers (WorldObjects are stored in the heap), and also holds a single Player class.
 The Player class is also derived from WorldObject, and a unique Player pointer is held in World only for convenience.
