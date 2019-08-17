@@ -1,10 +1,11 @@
 # SpaceHoover
 SDL / C++ half-finished game - collect all the stars to win.
 
+
 ## General Concept
 
 This is an "isometric" 2-D game where your player attracts stars, and takes damage from asteroids.
-The concept was inspired by the print of a T-shirt I saw.
+The concept was inspired by the print of a commonly-sold T-shirt.
 
 ## Design
 
